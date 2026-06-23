@@ -2,7 +2,6 @@ import streamlit as st
 
 # Tiêu đề
 st.title("💰 Ứng dụng tính Thuế Thu nhập cá nhân_Huỳnh Như"
-
 # Nhập dữ liệu
 thu_nhap = st.number_input(
     "Nhập tổng thu nhập hàng tháng (triệu đồng)",
